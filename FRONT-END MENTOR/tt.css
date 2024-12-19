@@ -1,0 +1,50 @@
+body{
+
+    background-color: rgb(214,225,240);
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.clo{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.con{
+    background-color: white;
+    width: 100%;
+}
+.im{
+    width: 363px;
+    height: 363px;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex
+;
+    margin-top: 24px;
+}
+.mai{
+    background-color: #ffff;
+  width:   428px;
+    border-radius: 20px;
+   
+height: 635px;
+    
+}
+.font{
+    font-size: medium;
+text-align: center;
+font-weight: 500;
+line-height: 0.0;
+
+    
+}
+.tl{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    line-height: 0.1;
+}
